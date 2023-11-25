@@ -1,0 +1,16 @@
+{
+  "name": "license-plate-recognition",
+  "version": "1.0.0",
+  "description": "",
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "dependencies": {
+    "tesseract.js": "^5.0.3"
+  }
+}
